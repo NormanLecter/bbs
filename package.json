@@ -1,0 +1,19 @@
+{
+  "name": "bbs-generator",
+  "version": "1.0.0",
+  "description": "bbs generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bbs",
+    "generator"
+  ],
+  "author": "Lukasz Wolniak",
+  "license": "ISC",
+  "dependencies": {
+    "big-number": "^0.4.0",
+    "big.js": "^5.0.3"
+  }
+}
