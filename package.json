@@ -14,6 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "big-number": "^0.4.0",
-    "big.js": "^5.0.3"
+    "fs": "0.0.1-security",
+    "nist-randomness-test-suite": "0.0.7"
   }
 }
